@@ -1,4 +1,4 @@
-# CropScan 🌱
+# CropScan
 
 AI-powered crop disease detection and progression forecasting system.
 
@@ -52,12 +52,6 @@ pip install -r requirements.txt
 
 ```bash
 kaggle datasets download -d vipoooool/new-plant-diseases-dataset -p data/raw/plantvillage
-```
-
-### 3. Download EuroSAT dataset (for ControlNet training)
-
-```bash
-kaggle datasets download -d apollo2506/eurosat-dataset -p data/raw/eurosat
 ```
 
 ---
